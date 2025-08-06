@@ -24,5 +24,6 @@ Sedang dalamm pengembangan,
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/myshop.git
+   git clone https://github.com/alvrtf/Project-UKK
    ```
+
